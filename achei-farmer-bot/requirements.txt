@@ -1,0 +1,6 @@
+mss
+opencv-python
+numpy
+pyautogui
+keyboard
+#Install using pip install -r requirements.txt

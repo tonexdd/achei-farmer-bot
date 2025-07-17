@@ -1,0 +1,31 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Editor configs
+.vscode/
+.idea/
+
+# Arquivos temporários ou de log
+*.log
+*.tmp
+
+# Imagens capturadas ou usadas em teste
+*.png
+*.jpg
+*.jpeg
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados por pip freeze (opcional)
+pip-selfcheck.json
