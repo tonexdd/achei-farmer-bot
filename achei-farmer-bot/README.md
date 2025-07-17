@@ -26,7 +26,7 @@ Projeto educacional que simula um bot de farming automatizado.
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.
-Consulte o arquivo [LICENSE] para mais detalhes
+Consulte o arquivo [LICENSE](LICENSE) para mais detalhes
 
 ## Autor
 
