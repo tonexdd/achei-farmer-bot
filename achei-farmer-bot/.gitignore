@@ -19,7 +19,6 @@ venv/
 *.tmp
 
 # Imagens capturadas ou usadas em teste
-*.png
 *.jpg
 *.jpeg
 
